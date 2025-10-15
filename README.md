@@ -2,7 +2,7 @@
 
 This Full Screen Effects addon is created specifically for 3D projects. It includes a variety of full-screen effects, supports multiple instances for each effect, and features a smooth fade system for seamless transitions. An example project is included to help you get up and running quickly.
 
-Please note: this addon is provided as-is. While there won't be official support, I will be updating and fixing it as I continue work on my own project.
+### Please note: This repository is no longer actively maintained or supported. Feel free to fork it and make your own changes or improvements!
 
 ![Alt text](./preview.gif)
 
